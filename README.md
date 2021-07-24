@@ -2,10 +2,10 @@
 
 ##### Sumário
 [Integrantes](#Integrantes)
-[Objetivo](#objetivo)  
-[Função de cada Componente](#funcao)  
+[Objetivo](#objetivo) <br />
+[Função de cada Componente](#funcao) <br />
 [Componentes](#Componentes)
-[Imagens](#imagens)  
+[Imagens](#imagens)  <br />
 [Links](#Links)
 
 ## Integrantes
