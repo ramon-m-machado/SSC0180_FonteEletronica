@@ -36,6 +36,9 @@ da troca entre os semiciclos.
 
 
 * **Capacitor:** 
+
+capacitor é um componente que armazena uma certa carga elétrica produzindo um ddp nas suas placas. No circuito ele é usado como filtro, pois o tempo de descarga do capacitor é maior que o período do sinal de entrada, ou seja, ele é responsavel por diminuir significativamente a variação de tensão no circuito
+<br />
 responsável pela etapa de filtragem, que reduz a variação da tensão existente.
 O capacitor é carregado durante a parte de crescimento da onda de corrente e descarregado
 na parte de decrescimento. 
