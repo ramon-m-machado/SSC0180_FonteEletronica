@@ -3,7 +3,7 @@
 ##### Sumário
 [Integrantes](#Integrantes) <br />
 [Objetivo](#objetivo) <br />
-[Função de cada Componente](#funcao) 
+[Função de cada Componente](#funcao) <br />
 [Componentes](#Componentes) <br />
 [Imagens](#imagens) <br />
 [Links](#Links)
