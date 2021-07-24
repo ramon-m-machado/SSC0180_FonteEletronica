@@ -60,7 +60,7 @@ na parte de decrescimento.
 | Ponte de Diodos | | | |
 | Capacitor | | | |
 | Resistor | | | |
-| Diodo Zenner | | | |
+| Diodo Zener | | | |
 | Potenciômetro | | | |
 | Transistor | | | |
 
