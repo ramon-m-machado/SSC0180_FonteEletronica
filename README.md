@@ -8,7 +8,7 @@ Victor Lucas de Almeida Fernandes - Nº USP 12675399
 
 ## Função de cada componente
 
-..*Capacitor
+..* Capacitor
 
 | Comando | Descrição |
 | --- | --- |
