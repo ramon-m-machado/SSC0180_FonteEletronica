@@ -16,7 +16,7 @@ Victor Lucas de Almeida Fernandes - Nº USP 12675399 </h4>
 ## Objetivo do trabalho
 Partindo de uma tomada com corrente alternada de 127V (com pico de 179,6V), construir uma fonte retificadora que consiga deixar a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
-<a name="funcao"/>
+<a name="funcao"> </a>
 ## Função de cada Componente
 * Transformador
 * Ponte de diodos
@@ -38,7 +38,7 @@ Partindo de uma tomada com corrente alternada de 127V (com pico de 179,6V), cons
 | Potenciômetro | | | |
 | Transistor | | | |
 
-<a name="imagens"/>
+<a name="imagens"> </a>
 ## Imagens do circuito
 
 ## Links
