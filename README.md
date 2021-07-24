@@ -40,9 +40,13 @@ responsável pela etapa de filtragem, que reduz a variação da tensão existent
 O capacitor é carregado durante a parte de crescimento da onda de corrente e descarregado
 na parte de decrescimento. 
 
-Um filtro capacitivo é um arranjo de circuito elétrico que tem a finalidade de reduzir variações de tensão e corrente de altas frequências. Basicamente os filtros capacitivos usados em fontes servem para eliminar uma tensão alternada pulsativa e transformá-la em uma (tensão contínua) que varia menos. Essa variação é chamada de tensão de ondulação ou ripple.
-
-Usando um filtro capacitivo em um circuito retificador, obtém-se uma tensão de ripple resultante do descarregamento lento do capacitor em relação à fonte.[1] O dimensionamento do capacitor utilizado no filtro pode ser feito para gerar uma tensão de ripple controlada para ser posteriormente eliminada através de regulador zener, regulador linear ou outros tipos de regulagem. Para efetuar o dimensionamento, levamos em consideração que a capacitância de um capacitor é definida como:
+Capacitor: 
+Etapa de filtragem. Como a tensão que chega é alternada, o resistor que passa a corrente fica ligando e desligando.
+O que precisamos fazer é filtrar a tensão para deixar ela "constante". 
+Exemplo do menino que fica abrindo e fechando a torneira quando nós queremos regar o jardim. Uma resolução é colocar uma caixa d'água entre o menino e o jardim. O que passa a oscilar é o nível da caixa, mas é possível regar "constantemente".
+Ela não é verdadeira constante porque a quantidade de água que sai da torneira depende da quantidade de água que tem na caixa (e a quantidade de água na caixa oscila). Se tiver muita água na caixa, a torneira tem maior pressão. Se tiver menos, tem menor pressão. Com isso, a torneira sempre fica com água (não liga e desliga), porém não sai água em uma quantidade constante.
+Se a caixa d'água fosse muito grande (capacitor infinito), a quantidade de água na caixa não seria alterada com o menino abrindo e fechando. O problema é que quanto maior a caixa, mais cara ela é. Ou seja, um capacitor infinito torna a tensão constante, mas ele é caro, e não proporciona o aprendizado de outras coisas.
+Portanto, precisamos fazer contas para saber qual o menor tamanho da caixa que resolve o problema, para que tenhamos um menor custo e uma nota mais alta. 
 
 
 * **Resistores:**
