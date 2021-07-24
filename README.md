@@ -16,12 +16,12 @@ Victor Lucas de Almeida Fernandes - Nº USP 12675399 </h4>
 ## Objetivo do trabalho
 Partindo de uma tomada com corrente alternada de 127V (pico de 179,6V)
 e frequência de 60 Hz, construir uma fonte retificadora que consiga deixar 
-a corrente contínua e ajustar a tensão para valores entre 3V e 12V.![image](https://user-images.githubusercontent.com/87901904/126870620-0c309ed3-a4e3-4aa4-bfcf-2b9d625bb721.png)
+a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
 
 <a name="funcao"> </a>
 ## Função de cada Componente
-* Transformador
+* Transformador <br />
 Responsável pela redução da tensão que chega da tomada. O transformador
 escolhido é capaz de modificar a ddp de 127V para 15V. Como a tensão máxima 
 da fonte é de 12V, escolhemos um valor superior para garantir que esse resultado
