@@ -21,7 +21,7 @@ a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
 <a name="funcao"> </a>
 ## Função de cada Componente
-* Transformador <br />
+* **Transformador** <br />
 Responsável pela redução da tensão que chega da tomada. O transformador
 escolhido é capaz de modificar a ddp de 127V para 15V. Como a tensão máxima 
 da fonte é de 12V, escolhemos um valor superior para garantir que esse resultado
