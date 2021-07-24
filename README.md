@@ -26,7 +26,8 @@ escolhido é capaz de modificar a ddp de 127V para 15V. Como a tensão máxima
 da fonte é de 12V, escolhemos um valor superior para garantir que esse resultado
 consiga ser obtido.
 
-* Ponte de diodos
+* **Ponte de diodos:** responsável pela retificação do circuito, ou seja, por transformar 
+a corrente alternada em contínua.
 * Capacitor
 * Resistores
 * Potenciômetro
