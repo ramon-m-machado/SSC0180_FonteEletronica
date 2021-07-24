@@ -38,7 +38,7 @@ consiga ser obtido.
 
 | Componente | Especificação | Valor |
 | --- | --- | --- |
-| Transformador | | |'R$ x' |
+| Transformador | | |`R$ x`|
 | Ponte de Diodos | | | |
 | Capacitor | | | |
 | Resistor | | | |
