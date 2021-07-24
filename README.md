@@ -26,7 +26,7 @@ a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 responsável pela redução da tensão que chega da tomada. O transformador
 escolhido é capaz de modificar a ddp de 127V para 15V. Como a tensão máxima 
 da fonte é de 12V, escolhemos um valor superior para garantir que esse resultado
-consiga ser obtido.
+consiga ser obtido, visto que os componentes do circuito consomem tensão.
 
 * **Ponte de diodos:** 
 responsável pela retificação do circuito, ou seja, por inverter o 
