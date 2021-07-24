@@ -11,7 +11,16 @@ Partindo de uma tomada com corrente alternada de 127V (com pico de 179,6V), cons
 
 * Capacitor
 
-| Comando | Descrição |
-| --- | --- |
-| git status | Lista de todos os arquivos modificados ou novos |
-| git diff | Mostra as diferenças do arquivo que não foram preparadas |
+## Componentes
+
+| Componente | Preço | Justificativa | Valor |
+| --- | --- | --- | --- |
+| Transformador | | | |
+| Ponte de Diodos | | | |
+| Capacitor | | | |
+| Resistor | | | |
+| Diodo Zenner | | | |
+| Potenciômetro | | | |
+| Transistor | | | |
+
+
