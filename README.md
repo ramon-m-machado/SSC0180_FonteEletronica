@@ -5,7 +5,7 @@
 [Objetivo](#objetivo) <br />
 [Função de cada Componente](#funcao) 
 [Componentes](#Componentes) <br />
-[Imagens](#imagens)  
+[Imagens](#imagens) <br />
 [Links](#Links)
 
 ## Integrantes
