@@ -1,11 +1,11 @@
 # Projeto da Fonte
 
 ##### Sumário
-[Integrantes](#Integrantes)
+[Integrantes](#Integrantes) <br />
 [Objetivo](#objetivo) <br />
-[Função de cada Componente](#funcao) <br />
-[Componentes](#Componentes)
-[Imagens](#imagens)  <br />
+[Função de cada Componente](#funcao) 
+[Componentes](#Componentes) <br />
+[Imagens](#imagens)  
 [Links](#Links)
 
 ## Integrantes
