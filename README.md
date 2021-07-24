@@ -1,7 +1,12 @@
 # Projeto da Fonte
 
-##### Table of Contents    
-[Links](#links)
+##### Sumário
+[Integrantes](#Integrantes)
+[Objetivo](#Objetivo do trabalho)  
+[Função de cada Componente](#Função de cada Componente)  
+[Componentes](#Componentes)
+[Imagens](#Imagens do circuito)  
+[Links](#Links)
 
 ## Integrantes
 <h4> Ramon Moreira Machado - Nº USP 12543179 <br />
