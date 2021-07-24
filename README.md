@@ -18,7 +18,7 @@ Partindo de uma tomada com corrente alternada de 127V (com pico de 179,6V), cons
 
 ## Componentes
 
-| Componente | Especificação | Justificativa | Valor |
+| Componente | Especificação | Valor |
 | --- | --- | --- | --- |
 | Transformador | | | |
 | Ponte de Diodos | | | |
