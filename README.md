@@ -1,8 +1,8 @@
 # Projeto da Fonte
 
 ## Integrantes
-<h5> Ramon Moreira Machado - Nº USP 12543179 <br />
-Victor Lucas de Almeida Fernandes - Nº USP 12675399 </h5>
+<h3> Ramon Moreira Machado - Nº USP 12543179 <br />
+Victor Lucas de Almeida Fernandes - Nº USP 12675399 </h3>
 
 ## Objetivo do trabalho
 
