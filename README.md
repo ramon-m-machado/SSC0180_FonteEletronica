@@ -36,21 +36,15 @@ da troca entre os semiciclos.
 
 
 * **Capacitor:** 
+responsável pela etapa de filtragem. 
+O capacitor é capaz de armazenar uma determinada carga, e como o seu tempo de descarga é maior
+do que o período do sinal de entrada, ele alimenta o circuito quando a corrente passa do pico e diminui 
+significativamente e é recarregado durante o aumento da corrente. Assim, ele consegue diminuir 
+a variação de tensão no circuito, o "Ripple".
+
 
 Como o capacitor armazena uma certa carga, no circuito ele é usado como filtro, pois o tempo de descarga do capacitor é maior que o período do sinal de entrada, então ele fornece carga para o circuito quando a corrente alternada passa do pico e diminui significativamente, logo, ele é responsavel por diminuir a variação de tensão no circuito.
 <br />
-responsável pela etapa de filtragem, que reduz a variação da tensão existente.
-O capacitor é carregado durante a parte de crescimento da onda de corrente e descarregado
-na parte de decrescimento. 
-
-Capacitor: 
-Etapa de filtragem. Como a tensão que chega é alternada, o resistor que passa a corrente fica ligando e desligando.
-O que precisamos fazer é filtrar a tensão para deixar ela "constante". 
-Exemplo do menino que fica abrindo e fechando a torneira quando nós queremos regar o jardim. Uma resolução é colocar uma caixa d'água entre o menino e o jardim. O que passa a oscilar é o nível da caixa, mas é possível regar "constantemente".
-Ela não é verdadeira constante porque a quantidade de água que sai da torneira depende da quantidade de água que tem na caixa (e a quantidade de água na caixa oscila). Se tiver muita água na caixa, a torneira tem maior pressão. Se tiver menos, tem menor pressão. Com isso, a torneira sempre fica com água (não liga e desliga), porém não sai água em uma quantidade constante.
-Se a caixa d'água fosse muito grande (capacitor infinito), a quantidade de água na caixa não seria alterada com o menino abrindo e fechando. O problema é que quanto maior a caixa, mais cara ela é. Ou seja, um capacitor infinito torna a tensão constante, mas ele é caro, e não proporciona o aprendizado de outras coisas.
-Portanto, precisamos fazer contas para saber qual o menor tamanho da caixa que resolve o problema, para que tenhamos um menor custo e uma nota mais alta. 
-
 
 * **Resistores:**
 
