@@ -16,3 +16,4 @@ Victor Lucas de Almeida Fernandes - Nº USP 12675399
 | git diff | Mostra as diferenças do arquivo que não foram preparadas |
 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+teste
