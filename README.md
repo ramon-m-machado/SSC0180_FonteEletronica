@@ -2,10 +2,10 @@
 
 ##### Sumário
 [Integrantes](#Integrantes)
-[Objetivo](#Objetivo do trabalho)  
-[Função de cada Componente](#Função de cada Componente)  
+[Objetivo](#Objetivo)  
+[Função de cada Componente](#Função)  
 [Componentes](#Componentes)
-[Imagens](#Imagens do circuito)  
+[Imagens](#Imagens)  
 [Links](#Links)
 
 ## Integrantes
