@@ -1,6 +1,6 @@
 # Projeto da Fonte
 
-##### Sumário
+## Sumário
 [Integrantes](#Integrantes) <br />
 [Objetivo](#objetivo) <br />
 [Função de cada Componente](#funcao) <br />
