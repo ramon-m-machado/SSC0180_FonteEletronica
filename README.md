@@ -22,18 +22,23 @@ a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 <a name="funcao"> </a>
 ## Função de cada Componente
 
-* **Transformador:** responsável pela redução da tensão que chega da tomada. O transformador
+* **Transformador:** 
+responsável pela redução da tensão que chega da tomada. O transformador
 escolhido é capaz de modificar a ddp de 127V para 15V. Como a tensão máxima 
 da fonte é de 12V, escolhemos um valor superior para garantir que esse resultado
 consiga ser obtido.
 
-* **Ponte de diodos:** responsável pela retificação do circuito, ou seja, por inverter o 
+* **Ponte de diodos:** 
+responsável pela retificação do circuito, ou seja, por inverter o 
 semiciclo negativo da corrente alternada. Assim, o circuito é abastecido com a corrente 
 em ambos os semiciclos da corrente. No entanto, ainda existe variação na tensão, decorrente
 da troca entre os semiciclos.
 
 
-* **Capacitor:** responsável por 
+* **Capacitor:** 
+responsável pela etapa de filtragem, que reduz a variação da tensão existente.
+O capacitor é carregado durante a parte de crescimento da onda de corrente e descarregado
+na parte de decrescimento. 
 
 
 * **Resistores:**
