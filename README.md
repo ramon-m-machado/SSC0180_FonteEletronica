@@ -42,6 +42,10 @@ do que o período do sinal de entrada, ele alimenta o circuito quando a corrente
 significativamente e é recarregado durante o aumento da corrente até chegar no pico. 
 Assim, ele consegue diminuir a variação de tensão no circuito, o "Ripple".
 
+responsável pela etapa de filtragem. 
+O capacitor é capaz de armazenar uma determinada carga, e como o seu tempo de descarga é maior
+do que o período do sinal de entrada, ele consegue diminuir a variação de tensão no circuito, o "Ripple".
+
 
 Como o capacitor armazena uma certa carga, no circuito ele é usado como filtro, pois o tempo de descarga do capacitor é maior que o período do sinal de entrada, então ele fornece carga para o circuito quando a corrente alternada passa do pico e diminui significativamente, logo, ele é responsavel por diminuir a variação de tensão no circuito.
 <br />
