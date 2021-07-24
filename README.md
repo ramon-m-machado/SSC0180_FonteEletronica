@@ -40,6 +40,10 @@ responsável pela etapa de filtragem, que reduz a variação da tensão existent
 O capacitor é carregado durante a parte de crescimento da onda de corrente e descarregado
 na parte de decrescimento. 
 
+Um filtro capacitivo é um arranjo de circuito elétrico que tem a finalidade de reduzir variações de tensão e corrente de altas frequências. Basicamente os filtros capacitivos usados em fontes servem para eliminar uma tensão alternada pulsativa e transformá-la em uma (tensão contínua) que varia menos. Essa variação é chamada de tensão de ondulação ou ripple.
+
+Usando um filtro capacitivo em um circuito retificador, obtém-se uma tensão de ripple resultante do descarregamento lento do capacitor em relação à fonte.[1] O dimensionamento do capacitor utilizado no filtro pode ser feito para gerar uma tensão de ripple controlada para ser posteriormente eliminada através de regulador zener, regulador linear ou outros tipos de regulagem. Para efetuar o dimensionamento, levamos em consideração que a capacitância de um capacitor é definida como:
+
 
 * **Resistores:**
 
