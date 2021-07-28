@@ -34,7 +34,6 @@ semiciclo negativo da corrente alternada. Assim, o circuito é abastecido com a 
 em ambos os semiciclos da corrente. No entanto, ainda existe variação na tensão, decorrente
 da troca entre os semiciclos.
 
-
 * **Capacitor:** 
 responsável pela etapa de filtragem. 
 O capacitor é capaz de armazenar uma determinada carga, e como o seu tempo de descarga é maior
@@ -42,26 +41,18 @@ do que o período do sinal de entrada, ele alimenta o circuito quando a corrente
 significativamente e é recarregado durante o aumento da corrente até chegar no pico. 
 Assim, ele consegue diminuir a variação de tensão no circuito, o "Ripple".
 
-responsável pela etapa de filtragem. 
-O capacitor é capaz de armazenar uma determinada carga, e como o seu tempo de descarga é maior
-do que o período do sinal de entrada, ele consegue diminuir a variação de tensão no circuito, o "Ripple".
-
-
-Como o capacitor armazena uma certa carga, no circuito ele é usado como filtro, pois o tempo de descarga do capacitor é maior que o período do sinal de entrada, então ele fornece carga para o circuito quando a corrente alternada passa do pico e diminui significativamente, logo, ele é responsavel por diminuir a variação de tensão no circuito.
-<br />
-
 * **Resistores:**
 responsáveis pelo controle da corrente que passa pelo circuito, 
 evitando que os outros componentes queimem.
-
-* **Potenciômetro:**
-responsável pela variação da tensão entre 3 e 12V.
 
 * **Diodo Zener:**
 responsável por regular a tensão máxima do circuito. A tensão escolhida para o Zener foi de 13V, porque 
 outros componentes ainda vão consumir tensão, e o valor máximo da fonte precisa ser de 12V. 
 Assim, se a tensão que chega no Zener for superior a 13V, ele deixa a corrente passar com tensão de 13V.
 Se for inferior a 13V, ele não influencia no circuito.
+
+* **Potenciômetro:**
+responsável pela variação da tensão entre 3 e 12V.
 
 * **Transistor NPN**:
 
