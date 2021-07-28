@@ -58,12 +58,13 @@ responsável pela regulação da tensão entre 3 e 12V.
 responsável pela regulação da corrente elétrica.
 
 ## Componentes
+[R$0,79](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE)
 
 | Componente | Especificação | Valor |
 | --- | --- | --- |
 | Transformador | | |`R$ x`|
 | Ponte de Diodos | | | |
-| Capacitor | | |[R$0,79](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE) |
+| Capacitor | | | |
 | Resistor | | | |
 | Diodo Zener | | | |
 | Potenciômetro | | | |
