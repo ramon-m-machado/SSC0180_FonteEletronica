@@ -72,6 +72,6 @@ responsável pela regulação da corrente elétrica.
 
 <a name="imagens"> </a>
 ## Imagens do circuito
-![alt text](https://github.com/ramon1usp/SSC0180_FonteEletronica/edit/main/falstad.png "Circuito Falstad")
 ![Test Image 1](falstad.png)
+<h4>Link do Circuito: https://tinyurl.com/yhs23wuz</h4>
 ## Links
