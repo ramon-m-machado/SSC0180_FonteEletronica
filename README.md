@@ -74,4 +74,5 @@ responsável pela regulação da corrente elétrica.
 ## Imagens do circuito
 ![Test Image 1](falstad.png)
 <h4>Link do Circuito: https://tinyurl.com/yhs23wuz</h4>
+
 ## Links
