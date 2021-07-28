@@ -51,13 +51,17 @@ Como o capacitor armazena uma certa carga, no circuito ele é usado como filtro,
 <br />
 
 * **Resistores:**
-
+responsáveis pelo controle da corrente que passa pelo circuito, 
+evitando que os outros componentes queimem.
 
 * **Potenciômetro:**
-
+responsável pela variação da tensão entre 3 e 12V.
 
 * **Diodo Zener:**
-
+responsável por regular a tensão máxima do circuito. A tensão escolhida para o Zener foi de 13V, porque 
+outros componentes ainda vão consumir tensão, e o valor máximo da fonte precisa ser de 12V. 
+Assim, se a tensão que chega no Zener for superior a 13V, ele deixa a corrente passar com tensão de 13V.
+Se for inferior a 13V, ele não influencia no circuito.
 
 * **Transistor NPN**:
 
