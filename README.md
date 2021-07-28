@@ -3,7 +3,7 @@
 ## Sumário
 [Integrantes](#Integrantes) <br />
 [Objetivo](#objetivo) <br />
-[Função de cada Componente](#funcao) <br />
+[Função de cada componente](#funcao) <br />
 [Componentes](#Componentes) <br />
 [Circuito no Falstad](#falstad) <br />
 [Circuito no Eagle](#eagle) <br />
