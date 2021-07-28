@@ -87,4 +87,4 @@ responsável pela regulação da corrente elétrica.
 
 <a name="pcb"> </a>
 ## Circuito PCB
-![Circuito PCB](pcb.png)
+![Circuito PCB](circuitoPCB.png)
