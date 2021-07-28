@@ -66,14 +66,16 @@ responsável pela regulação da corrente elétrica.
 | Componente | Especificação | Valor |
 | --- | --- | --- |
 | Transformador | | |`R$ x`|
-| Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40](https://www.baudaeletronica.com.br/diodo-1n4007.html) | |
+| Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40][diodos] | |
 | Capacitor | 1000uF | [R$0,79][capacitor] | |
 | Resistor | | | |
 | Diodo Zener | | | |
-| Potenciômetro | 10k | [R$1,79](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html?gclid=CjwKCAjwgISIBhBfEiwALE19SfFnNJtX0-Vd7lZdZ-2e183X3vlfUzLg71sWm2MVyKX1NRZIPBpZ1BoC5EsQAvD_BwE) | |
+| Potenciômetro | 10k | [R$1,79][potenciometro] | |
 | Transistor | | | |
 
 [capacitor]: https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE
+[diodos]: https://www.baudaeletronica.com.br/diodo-1n4007.html
+[potenciometro]: https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html?gclid=CjwKCAjwgISIBhBfEiwALE19SfFnNJtX0-Vd7lZdZ-2e183X3vlfUzLg71sWm2MVyKX1NRZIPBpZ1BoC5EsQAvD_BwE
 
 <a name="falstad"> </a>
 ## Circuito no Falstad
