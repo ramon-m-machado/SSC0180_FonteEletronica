@@ -75,5 +75,6 @@ Como o capacitor armazena uma certa carga, no circuito ele é usado como filtro,
 
 <a name="imagens"> </a>
 ## Imagens do circuito
+![alt text](https://github.com/ramon1usp/SSC0180_FonteEletronica/edit/main/falstad.jpg?raw=true)
 
 ## Links
