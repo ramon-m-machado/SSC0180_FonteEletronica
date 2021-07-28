@@ -64,7 +64,7 @@ responsável pela regulação da corrente elétrica.
 | --- | --- | --- |
 | Transformador | | |`R$ x`|
 | Ponte de Diodos | | | |
-| Capacitor | | | |
+| Capacitor | [R$0,79](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE)| | |
 | Resistor | | | |
 | Diodo Zener | | | |
 | Potenciômetro | | | |
