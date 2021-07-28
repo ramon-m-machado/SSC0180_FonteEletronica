@@ -52,7 +52,7 @@ Assim, se a tensão que chega no Zener for superior a 13V, ele deixa a corrente 
 Se for inferior a 13V, ele não influencia no circuito.
 
 * **Potenciômetro:**
-responsável pela variação da tensão entre 3 e 12V.
+responsável pela regulação da tensão entre 3 e 12V.
 
 * **Transistor NPN**:
 
