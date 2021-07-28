@@ -58,6 +58,9 @@ responsável pela regulação da tensão entre 3 e 12V.
 * **Transistor NPN**:
 responsável pela regulação da corrente elétrica.
 
+![Cálculo do capacitor](https://user-images.githubusercontent.com/87901904/127382407-2d539f91-ec64-4b7b-adc1-0101e070e740.png)
+
+
 ## Componentes
 
 | Componente | Especificação | Valor |
