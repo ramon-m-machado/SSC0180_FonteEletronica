@@ -70,6 +70,6 @@ responsável pela regulação da tensão entre 3 e 12V.
 
 <a name="imagens"> </a>
 ## Imagens do circuito
-![alt text](https://github.com/ramon1usp/SSC0180_FonteEletronica/edit/main/falstad.png?raw=true)
+![alt text](https://github.com/ramon1usp/SSC0180_FonteEletronica/edit/main/falstad.png "Circuito Falstad")
 
 ## Links
