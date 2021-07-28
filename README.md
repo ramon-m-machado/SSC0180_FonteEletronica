@@ -70,7 +70,7 @@ responsável pela regulação da corrente elétrica.
 | Capacitor | 1000uF | [R$0,79](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE) | |
 | Resistor | | | |
 | Diodo Zener | | | |
-| Potenciômetro | | | |
+| Potenciômetro | 10k | [R$1,79](https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html?gclid=CjwKCAjwgISIBhBfEiwALE19SfFnNJtX0-Vd7lZdZ-2e183X3vlfUzLg71sWm2MVyKX1NRZIPBpZ1BoC5EsQAvD_BwE) | |
 | Transistor | | | |
 
 <a name="falstad"> </a>
