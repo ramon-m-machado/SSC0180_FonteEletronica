@@ -66,7 +66,7 @@ responsável pela regulação da corrente elétrica.
 | Componente | Especificação | Valor |
 | --- | --- | --- |
 | Transformador | | |`R$ x`|
-| Ponte de Diodos | 1N4007 | [4xR$0,10 = R$0,40](https://www.baudaeletronica.com.br/diodo-1n4007.html) | |
+| Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40](https://www.baudaeletronica.com.br/diodo-1n4007.html) | |
 | Capacitor | 1000uF | [R$0,79](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE) | |
 | Resistor | | | |
 | Diodo Zener | | | |
