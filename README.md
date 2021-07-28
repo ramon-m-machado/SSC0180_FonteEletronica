@@ -21,7 +21,7 @@ a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
 
 <a name="funcao"> </a>
-## Função de cada Componente
+## Função de cada componente
 
 * **Transformador:** 
 responsável pela redução da tensão que chega da tomada. O transformador
