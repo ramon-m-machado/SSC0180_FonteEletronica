@@ -5,8 +5,9 @@
 [Objetivo](#objetivo) <br />
 [Função de cada Componente](#funcao) <br />
 [Componentes](#Componentes) <br />
-[Imagens](#imagens) <br />
-[Links](#Links)
+[Circuito no Falstad](#falstad) <br />
+[Circuito no Eagle](#eagle) <br />
+[Circuito PCB](#pcb) <br />
 
 ## Integrantes
 <h4> Ramon Moreira Machado - Nº USP 12543179 <br />
@@ -69,12 +70,19 @@ responsável pela regulação da corrente elétrica.
 | Potenciômetro | | | |
 | Transistor | | | |
 
-<a name="imagens"> </a>
-## Imagens do circuito
+<a name="falstad"> </a>
+## Circuito no Falstad
 ![Circuito Falstad](falstad.png)
 <h4>Link do Circuito: https://tinyurl.com/yhs23wuz</h4>
 
+<a name="eagle"> </a>
+## Circuito no Eagle
 ![Circuito Eagle](circuitoEagle.png)
 <h4>Circuito no Eagle</h4>
+
+<a name="pcb"> </a>
+## Circuito PCB
+![Circuito PCB](circuitoPCB.png)
+<h4>Circuito PCB</h4>
 
 ## Links
