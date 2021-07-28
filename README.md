@@ -71,7 +71,10 @@ responsável pela regulação da corrente elétrica.
 
 <a name="imagens"> </a>
 ## Imagens do circuito
-![Test Image 1](falstad.png)
+![Circuito Falstad](falstad.png)
 <h4>Link do Circuito: https://tinyurl.com/yhs23wuz</h4>
+
+![Circuito Eagle](circuitoEagle.png)
+<h4>Circuito no Eagle</h4>
 
 ## Links
