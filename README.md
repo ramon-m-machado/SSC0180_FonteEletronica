@@ -58,7 +58,6 @@ responsável pela regulação da tensão entre 3 e 12V.
 * **Transistor NPN**:
 responsável pela regulação da corrente elétrica.
 
-<br \>
 ## Componentes
 
 | Componente | Especificação | Valor |
@@ -70,7 +69,6 @@ responsável pela regulação da corrente elétrica.
 | Diodo Zener | | | |
 | Potenciômetro | | | |
 | Transistor | | | |
-<br \>
 
 <a name="falstad"> </a>
 ## Circuito no Falstad
