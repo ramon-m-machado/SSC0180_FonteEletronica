@@ -79,7 +79,6 @@ responsável pela regulação da corrente elétrica.
 <a name="eagle"> </a>
 ## Circuito no Eagle
 ![Circuito Eagle](circuitoEagle.png)
-<br \>
 
 <a name="pcb"> </a>
 ## Circuito PCB
