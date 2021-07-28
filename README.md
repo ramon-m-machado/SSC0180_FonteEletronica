@@ -74,15 +74,18 @@ responsável pela regulação da corrente elétrica.
 ## Circuito no Falstad
 ![Circuito Falstad](falstad.png)
 <h4>Link do Circuito: https://tinyurl.com/yhs23wuz</h4>
+<br\>
+<br\>
 
 <a name="eagle"> </a>
 ## Circuito no Eagle
 ![Circuito Eagle](circuitoEagle.png)
-<h4>Circuito no Eagle</h4>
+<br\>
+<br\>
 
 <a name="pcb"> </a>
 ## Circuito PCB
 ![Circuito PCB](circuitoPCB.png)
-<h4>Circuito PCB</h4>
+<br\>
 
-## Links
+
