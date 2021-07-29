@@ -69,6 +69,10 @@ responsável pela regulação da corrente elétrica.
 | Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40][diodos] | |
 | Capacitor | 1000uF | [R$0,79][capacitor] | |
 | Resistor | | | |
+| Resistor | | | |
+| Resistor | | | |
+| Resistor | | | |
+| Led | | | |
 | Diodo Zener | 13V | [R$0,19][zener]| |
 | Potenciômetro | 10k | [R$1,79][potenciometro] | |
 | Transistor | NPN | [R$0,29][npn]| |
