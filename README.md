@@ -70,10 +70,10 @@ responsável pela regulação da corrente elétrica.
 | Transformador | 12V | [R$26,99][transformador]|`R$ x`|
 | Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40][diodos] | |
 | Capacitor | 1000uF | [R$0,79][capacitor] | |
-| Resistor | | | [R$0,05][resistor1] |
-| Resistor | | | [R$0,05][resistor2] |
-| Resistor | | | [R$0,05][resistor3] |
-| Resistor | | | [R$0,05][resistor4] |
+| Resistor | 1kΩ | [R$0,05][resistor1] |
+| Resistor |  | [R$0,05][resistor2] |
+| Resistor |  | [R$0,05][resistor3] |
+| Resistor |  | [R$0,05][resistor4] |
 | Led | 5mm | [R$0,25][led]| |
 | Diodo Zener | 13V | [R$0,19][zener]| |
 | Potenciômetro | 10k | [R$1,79][potenciometro] | |
