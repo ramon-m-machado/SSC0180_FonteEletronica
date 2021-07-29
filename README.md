@@ -62,7 +62,7 @@ responsável pela regulação da corrente elétrica.
 <a name="calculos"> </a>
 ## Cálculos
 ![capacitor](https://user-images.githubusercontent.com/87901904/127382407-2d539f91-ec64-4b7b-adc1-0101e070e740.png)
-![resistor](https://user-images.githubusercontent.com/87901904/127545146-0f1e1d65-417d-4ddf-b481-be5b6e1e6272.png)
+![resistor](https://user-images.githubusercontent.com/87901904/127545309-9413d0d2-c2f0-4eb7-a2c2-f3422cd6cd28.png)
 
 
 ## Componentes
