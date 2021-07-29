@@ -87,8 +87,8 @@ responsável pela regulação da corrente elétrica.
 
 <a name="eagle"> </a>
 ## Circuito no Eagle
-![Circuito Eagle](eagle.png)
+![Circuito Eagle](circuitoEagle.png)
 
 <a name="pcb"> </a>
 ## Circuito PCB
-![Circuito PCB](circuitoPCB.png)
+![Circuito PCB](pcb.png)
