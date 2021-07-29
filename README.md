@@ -87,10 +87,10 @@ responsável pela regulação da corrente elétrica.
 [potenciometro]: https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html?gclid=CjwKCAjwgISIBhBfEiwALE19SfFnNJtX0-Vd7lZdZ-2e183X3vlfUzLg71sWm2MVyKX1NRZIPBpZ1BoC5EsQAvD_BwE
 [npn]: https://www.baudaeletronica.com.br/transistor-npn-2n2222.html?gclid=CjwKCAjwgISIBhBfEiwALE19SU9pQN6ihh4v9VTW-1ot3MlpanbD9w5BCGmXj4O_K-mzTs0KxVAMlRoClfwQAvD_BwE
 
-[resistor1]:https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
-[resistor2]:https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
-[resistor3]:https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
-[resistor4]:https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor1]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor2]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor3]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor4]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
 
 
 <a name="falstad"> </a>
