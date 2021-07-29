@@ -70,10 +70,10 @@ responsável pela regulação da corrente elétrica.
 | Transformador | 12V | [R$26,99][transformador]|`R$ x`|
 | Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40][diodos] | |
 | Capacitor | 1000uF | [R$0,79][capacitor] | |
-| Resistor | | | |
-| Resistor | | | |
-| Resistor | | | |
-| Resistor | | | |
+| Resistor | | | [R$0,05][resistor1] |
+| Resistor | | | [R$0,05][resistor2] |
+| Resistor | | | [R$0,05][resistor3] |
+| Resistor | | | [R$0,05][resistor4] |
 | Led | 5mm | [R$0,25][led]| |
 | Diodo Zener | 13V | [R$0,19][zener]| |
 | Potenciômetro | 10k | [R$1,79][potenciometro] | |
@@ -86,6 +86,12 @@ responsável pela regulação da corrente elétrica.
 [zener]: https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html?gclid=CjwKCAjwgISIBhBfEiwALE19SRW7bm8yXdRT0GTHfEzPJIUN8f9VPnWAHMp7ED1Eef8v-AIL5G_f7RoC4P0QAvD_BwE
 [potenciometro]: https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html?gclid=CjwKCAjwgISIBhBfEiwALE19SfFnNJtX0-Vd7lZdZ-2e183X3vlfUzLg71sWm2MVyKX1NRZIPBpZ1BoC5EsQAvD_BwE
 [npn]: https://www.baudaeletronica.com.br/transistor-npn-2n2222.html?gclid=CjwKCAjwgISIBhBfEiwALE19SU9pQN6ihh4v9VTW-1ot3MlpanbD9w5BCGmXj4O_K-mzTs0KxVAMlRoClfwQAvD_BwE
+
+[resistor1]https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor2]https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor3]https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor4]https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+
 
 <a name="falstad"> </a>
 ## Circuito no Falstad
