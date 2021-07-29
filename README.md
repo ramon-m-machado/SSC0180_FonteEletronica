@@ -65,7 +65,7 @@ responsável pela regulação da corrente elétrica.
 
 | Componente | Especificação | Valor |
 | --- | --- | --- |
-| Transformador | | |`R$ x`|
+| Transformador | 12V | [R$26,99][transformador]|`R$ x`|
 | Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40][diodos] | |
 | Capacitor | 1000uF | [R$0,79][capacitor] | |
 | Resistor | | | |
@@ -73,6 +73,7 @@ responsável pela regulação da corrente elétrica.
 | Potenciômetro | 10k | [R$1,79][potenciometro] | |
 | Transistor | NPN | [R$0,29][npn]| |
 
+[transformador]: https://produto.mercadolivre.com.br/MLB-989883391-transformador-trafo-1212v-200ma-bivolt-eletronica-eletrica-_JM?quantity=1#position=1&type=item&tracking_id=9abf8c61-6492-4e02-bb1d-d1a22f9b055d
 [diodos]: https://www.baudaeletronica.com.br/diodo-1n4007.html
 [capacitor]: https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE
 [zener]: https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html?gclid=CjwKCAjwgISIBhBfEiwALE19SRW7bm8yXdRT0GTHfEzPJIUN8f9VPnWAHMp7ED1Eef8v-AIL5G_f7RoC4P0QAvD_BwE
