@@ -73,7 +73,6 @@ responsável pela regulação da corrente elétrica.
 | Resistor | 1kΩ | [R$0,05][resistor1] |
 | Resistor | 820Ω | [R$0,05][resistor2] |
 | Resistor | 4k7Ω | [R$0,05][resistor3] |
-| Resistor |  | [R$0,05][resistor4] |
 | Led | 5mm | [R$0,25][led]| |
 | Diodo Zener | 13V | [R$0,19][zener]| |
 | Potenciômetro | 10k | [R$1,79][potenciometro] | |
@@ -90,8 +89,6 @@ responsável pela regulação da corrente elétrica.
 [resistor1]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
 [resistor2]: https://www.baudaeletronica.com.br/resistor-820r-5-1-4w.html
 [resistor3]: https://www.baudaeletronica.com.br/resistor-4k7-5-1-4w.html
-[resistor4]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
-
 
 <a name="falstad"> </a>
 ## Circuito no Falstad
