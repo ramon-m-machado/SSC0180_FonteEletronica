@@ -72,7 +72,7 @@ responsável pela regulação da corrente elétrica.
 | Resistor | | | |
 | Resistor | | | |
 | Resistor | | | |
-| Led | | | |
+| Led | 5mm | [R$0,25][led]| |
 | Diodo Zener | 13V | [R$0,19][zener]| |
 | Potenciômetro | 10k | [R$1,79][potenciometro] | |
 | Transistor | NPN | [R$0,29][npn]| |
@@ -80,6 +80,7 @@ responsável pela regulação da corrente elétrica.
 [transformador]: https://produto.mercadolivre.com.br/MLB-989883391-transformador-trafo-1212v-200ma-bivolt-eletronica-eletrica-_JM?quantity=1#position=1&type=item&tracking_id=9abf8c61-6492-4e02-bb1d-d1a22f9b055d
 [diodos]: https://www.baudaeletronica.com.br/diodo-1n4007.html
 [capacitor]: https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwgISIBhBfEiwALE19SV9PtG2yy8U5UN-H_dH_FWmCW822ftNFBUs8vyb2IieIiflBTjFcrRoCpP0QAvD_BwE
+[led]: https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html
 [zener]: https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html?gclid=CjwKCAjwgISIBhBfEiwALE19SRW7bm8yXdRT0GTHfEzPJIUN8f9VPnWAHMp7ED1Eef8v-AIL5G_f7RoC4P0QAvD_BwE
 [potenciometro]: https://www.baudaeletronica.com.br/potenciometro-linear-de-10k-10000.html?gclid=CjwKCAjwgISIBhBfEiwALE19SfFnNJtX0-Vd7lZdZ-2e183X3vlfUzLg71sWm2MVyKX1NRZIPBpZ1BoC5EsQAvD_BwE
 [npn]: https://www.baudaeletronica.com.br/transistor-npn-2n2222.html?gclid=CjwKCAjwgISIBhBfEiwALE19SU9pQN6ihh4v9VTW-1ot3MlpanbD9w5BCGmXj4O_K-mzTs0KxVAMlRoClfwQAvD_BwE
