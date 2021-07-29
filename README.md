@@ -5,6 +5,7 @@
 [Objetivo](#objetivo) <br />
 [Função de cada componente](#funcao) <br />
 [Componentes](#Componentes) <br />
+[Cálculos](#calculos) <br />
 [Circuito no Falstad](#falstad) <br />
 [Circuito no Eagle](#eagle) <br />
 [Circuito PCB](#pcb) <br />
@@ -58,6 +59,7 @@ responsável pela regulação da tensão entre 3 e 12V.
 * **Transistor NPN**:
 responsável pela regulação da corrente elétrica.
 
+<a name="calculos"> </a>
 ## Cálculos
 ![capacitor](https://user-images.githubusercontent.com/87901904/127382407-2d539f91-ec64-4b7b-adc1-0101e070e740.png)
 
