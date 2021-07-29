@@ -71,7 +71,7 @@ responsável pela regulação da corrente elétrica.
 | Ponte de Diodos | 1N4007 | [R$0,10 x 4 = R$0,40][diodos] | |
 | Capacitor | 1000uF | [R$0,79][capacitor] | |
 | Resistor | 1kΩ | [R$0,05][resistor1] |
-| Resistor |  | [R$0,05][resistor2] |
+| Resistor | 820Ω | [R$0,05][resistor2] |
 | Resistor |  | [R$0,05][resistor3] |
 | Resistor |  | [R$0,05][resistor4] |
 | Led | 5mm | [R$0,25][led]| |
@@ -88,7 +88,7 @@ responsável pela regulação da corrente elétrica.
 [npn]: https://www.baudaeletronica.com.br/transistor-npn-2n2222.html?gclid=CjwKCAjwgISIBhBfEiwALE19SU9pQN6ihh4v9VTW-1ot3MlpanbD9w5BCGmXj4O_K-mzTs0KxVAMlRoClfwQAvD_BwE
 
 [resistor1]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
-[resistor2]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
+[resistor2]: https://www.baudaeletronica.com.br/resistor-820r-5-1-4w.html
 [resistor3]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
 [resistor4]: https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html
 
