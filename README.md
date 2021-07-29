@@ -25,8 +25,8 @@ a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
 * **Transformador:** 
 responsável pela redução da tensão que chega da tomada. O transformador
-escolhido é capaz de modificar a ddp de 127V para 15V. Como a tensão máxima 
-da fonte é de 12V, escolhemos um valor superior para garantir que esse resultado
+escolhido é capaz de modificar a ddp de 127V, com pico de 179,6V, para 12V, com pico de 17,287V. Como a tensão máxima 
+da fonte é de 12V, escolhemos um valorde pico superior para garantir que esse resultado
 consiga ser obtido, visto que os componentes do circuito consomem tensão.
 
 * **Ponte de diodos:** 
