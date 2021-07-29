@@ -64,6 +64,8 @@ responsável pela regulação da corrente elétrica.
 ![capacitor](https://user-images.githubusercontent.com/87901904/127382407-2d539f91-ec64-4b7b-adc1-0101e070e740.png)
 ![resistor](https://user-images.githubusercontent.com/87901904/127545309-9413d0d2-c2f0-4eb7-a2c2-f3422cd6cd28.png)
 ![tensao1](https://user-images.githubusercontent.com/87901904/127545557-b4d29ff0-024c-4f3e-b3e3-1227c3600da5.png)
+![tensao2](https://user-images.githubusercontent.com/87901904/127545658-5925982c-cd5c-442e-848f-60e50e70461a.png)
+
 
 
 
