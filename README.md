@@ -57,7 +57,7 @@ Se for inferior a 13V, ele não influencia no circuito.
 responsável pela regulação da tensão entre 3 e 12V.
 
 * **Transistor NPN**:
-responsável pela regulação da corrente elétrica.
+responsável pela "regulação" da corrente elétrica.
 
 <a name="calculos"> </a>
 ## Cálculos
