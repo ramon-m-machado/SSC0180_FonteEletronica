@@ -23,7 +23,7 @@ a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
 <a name="video"> </a>
 ## Vídeo
-<h4> [Link do vídeo] (https://drive.google.com/file/d/1JKtw4jIEJxu9kp_Ld9PL_cwXYOSiDElz/view?usp=sharing) </h4>
+[Link do vídeo] (https://drive.google.com/file/d/1JKtw4jIEJxu9kp_Ld9PL_cwXYOSiDElz/view?usp=sharing)
 
 <a name="funcao"> </a>
 ## Função de cada componente
