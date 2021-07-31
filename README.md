@@ -100,7 +100,7 @@ responsável pela "regulação" da corrente elétrica.
 <a name="falstad"> </a>
 ## Circuito no Falstad
 ![Circuito Falstad](falstad.png)
-<h4>[Link do Circuito](https://tinyurl.com/yhs23wuz)</h4>
+[Link do Circuito](https://tinyurl.com/yhs23wuz)
 <br \>
 
 <a name="eagle"> </a>
