@@ -3,7 +3,7 @@
 ## Sumário
 [Integrantes](#Integrantes) <br />
 [Objetivo](#objetivo) <br />
-[Vídeo](#video) <br />
+[Links](#links) <br />
 [Função de cada componente](#funcao) <br />
 [Componentes](#Componentes) <br />
 [Cálculos](#calculos) <br />
@@ -21,9 +21,10 @@ Partindo de uma tomada com corrente alternada de 127V (pico de 179,6V)
 e frequência de 60 Hz, construir uma fonte retificadora que consiga deixar 
 a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
-<a name="video"> </a>
-## Vídeo
-[Link do vídeo](https://drive.google.com/file/d/1JKtw4jIEJxu9kp_Ld9PL_cwXYOSiDElz/view?usp=sharing)
+<a name="links"> </a>
+## Links
+[Vídeo](https://drive.google.com/file/d/1JKtw4jIEJxu9kp_Ld9PL_cwXYOSiDElz/view?usp=sharing)
+[Circuito](https://tinyurl.com/yhs23wuz)
 
 <a name="funcao"> </a>
 ## Função de cada componente
@@ -100,8 +101,6 @@ responsável pela "regulação" da corrente elétrica.
 <a name="falstad"> </a>
 ## Circuito no Falstad
 ![Circuito Falstad](falstad.png)
-[Link do Circuito](https://tinyurl.com/yhs23wuz)
-<br \>
 
 <a name="eagle"> </a>
 ## Circuito no Eagle
