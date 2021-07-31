@@ -3,6 +3,7 @@
 ## Sumário
 [Integrantes](#Integrantes) <br />
 [Objetivo](#objetivo) <br />
+[Vídeo](#video) <br />
 [Função de cada componente](#funcao) <br />
 [Componentes](#Componentes) <br />
 [Cálculos](#calculos) <br />
@@ -20,6 +21,9 @@ Partindo de uma tomada com corrente alternada de 127V (pico de 179,6V)
 e frequência de 60 Hz, construir uma fonte retificadora que consiga deixar 
 a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
+<a name="video"> </a>
+## Vídeo
+oie
 
 <a name="funcao"> </a>
 ## Função de cada componente
