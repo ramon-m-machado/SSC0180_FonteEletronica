@@ -70,9 +70,6 @@ responsável pela "regulação" da corrente elétrica.
 ![tensao1](https://user-images.githubusercontent.com/87901904/127545557-b4d29ff0-024c-4f3e-b3e3-1227c3600da5.png)
 ![tensao2](https://user-images.githubusercontent.com/87901904/127545658-5925982c-cd5c-442e-848f-60e50e70461a.png)
 
-
-
-
 ## Componentes
 
 | Componente | Especificação | Valor |
@@ -103,7 +100,7 @@ responsável pela "regulação" da corrente elétrica.
 <a name="falstad"> </a>
 ## Circuito no Falstad
 ![Circuito Falstad](falstad.png)
-<h4>Link do Circuito: https://tinyurl.com/yhs23wuz</h4>
+<h4>[Link do Circuito](https://tinyurl.com/yhs23wuz)</h4>
 <br \>
 
 <a name="eagle"> </a>
