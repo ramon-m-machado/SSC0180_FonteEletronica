@@ -23,8 +23,8 @@ a corrente contínua e ajustar a tensão para valores entre 3V e 12V.
 
 <a name="links"> </a>
 ## Links
-[Vídeo](https://drive.google.com/file/d/1JKtw4jIEJxu9kp_Ld9PL_cwXYOSiDElz/view?usp=sharing) <br />
-[Circuito](https://tinyurl.com/yhs23wuz)
+[Vídeo explicativo](https://drive.google.com/file/d/1JKtw4jIEJxu9kp_Ld9PL_cwXYOSiDElz/view?usp=sharing) <br />
+[Circuito no Falstad](https://tinyurl.com/yhs23wuz)
 
 <a name="funcao"> </a>
 ## Função de cada componente
